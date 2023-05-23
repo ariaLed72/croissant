@@ -1,0 +1,25 @@
+body {
+  background: rgb(255, 164, 53);
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  display: inline-block;
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
+img {
+  padding-left: 250px;
+}
+
+.row {
+  justify-content: center;
+}
